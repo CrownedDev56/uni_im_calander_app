@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IMcalanderapp</string>
+    <string name="type_something">Type something</string>
+    <string name="send">Send</string>
+    <string name="enters_message">enters message</string>
+    <string name="enter_message">enter message</string>
+    <string name="open_date_picker" />
+    <string name="date" />
+    <string name="pick_a_date">Select date to set up a group</string>
+    <string name="select">Select</string>
+    <string name="Chat">Chat</string>
+    <string name="IMCalanderAPP">IMCalanderAPP</string>
+
+</resources>
